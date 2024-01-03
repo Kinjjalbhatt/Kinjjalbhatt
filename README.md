@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kinjjalbhatt
-- 👀 I’m interested in editing content and reviewing
+- 👀 I’m interested in editing content and reviewing documents
 - 🌱 I’m currently learning GitHub ...
 - 💞️ I’m looking to collaborate on GIT Hub
 - 📫 How to reach me ...
